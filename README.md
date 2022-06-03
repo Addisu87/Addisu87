@@ -14,5 +14,5 @@ About me
  
  . ⚽️ My hobbies are playing soccer and listening musics. 
 
- . 💬 How to contact me : linkedin
-![image](https://user-images.githubusercontent.com/85212711/171950850-4c99b34e-fe11-488c-81d5-341d8d1dd776.png)
+Connect with me
+![image](https://user-images.githubusercontent.com/85212711/171951328-b1d764b7-94fa-4f6d-a871-aa4b39c98151.png)
