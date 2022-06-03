@@ -15,7 +15,7 @@ About me
  
  . ⚽️ My hobbies are playing soccer and listening musics. 
  
- . 📬 Contact me: https://www.linkedin.com/in/addisu-tedla-8b4a10143/
+ . 📬 Contact me: <a href"https://www.linkedin.com/in/addisu-tedla-8b4a10143/">LinkedIn</> 
 
 
 💻 Languages
