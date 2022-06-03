@@ -14,6 +14,8 @@ About me
  . 🎓  A graduate of Exploration Geophysics from Addis Ababa University, Ethiopia.
  
  . ⚽️ My hobbies are playing soccer and listening musics. 
+ 
+ . 📬 Contact me: https://www.linkedin.com/in/addisu-tedla-8b4a10143/
 
 
 💻 Languages
@@ -31,6 +33,8 @@ About me
 
    ![image](https://user-images.githubusercontent.com/85212711/171952644-f038c447-0c71-4e55-9cfc-c741202370d8.png)
    ![image](https://user-images.githubusercontent.com/85212711/171952689-44774731-38fd-4f76-8a5c-28a0b812cc60.png)
+   
+   
 
 
 
