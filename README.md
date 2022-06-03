@@ -28,8 +28,8 @@ About me
    
 ⎈ Deployment platforms:
 
- . ![image](https://user-images.githubusercontent.com/85212711/171952644-f038c447-0c71-4e55-9cfc-c741202370d8.png)
- . ![image](https://user-images.githubusercontent.com/85212711/171952689-44774731-38fd-4f76-8a5c-28a0b812cc60.png)
+   ![image](https://user-images.githubusercontent.com/85212711/171952644-f038c447-0c71-4e55-9cfc-c741202370d8.png)
+   ![image](https://user-images.githubusercontent.com/85212711/171952689-44774731-38fd-4f76-8a5c-28a0b812cc60.png)
 
 
 
