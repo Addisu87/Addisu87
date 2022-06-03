@@ -6,6 +6,7 @@ I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹
 
 About me
 
+
  . 💼 Freelancer
 
  . 📈 I'm constantly learning and improving on new software tools & technologies.
