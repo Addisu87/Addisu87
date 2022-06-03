@@ -14,5 +14,12 @@ About me
  
  . ⚽️ My hobbies are playing soccer and listening musics. 
 
-Connect with me
-![image](https://user-images.githubusercontent.com/85212711/171951328-b1d764b7-94fa-4f6d-a871-aa4b39c98151.png)
+
+Languages
+
+   ![image](https://user-images.githubusercontent.com/85212711/171951328-b1d764b7-94fa-4f6d-a871-aa4b39c98151.png)
+   ![image](https://user-images.githubusercontent.com/85212711/171951566-e5a917c3-070f-4a2f-88e5-f5b3c077e3d1.png)
+   ![image](https://user-images.githubusercontent.com/85212711/171951593-fa077e49-9dc6-47d9-9faa-ac728e8ea7c7.png)
+
+
+   
