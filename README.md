@@ -26,13 +26,13 @@
  
 | Activities |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&theme=outrun" alt="Addisu Haile" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Addisu87&show_icons=true&theme=outrun&layout=compact" alt="Addisu Haile" width="410"/>|
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&theme=tokyonight" alt="Addisu Haile" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Addisu87&show_icons=true&theme=tokyonight&layout=compact" alt="Addisu Haile" width="410"/>|
 </p>
 
    
 ### 📫 Contact me 
 <p align="left">
-   <a href="https://github.com/Addisu87" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="30" height="30"/></a><a href="addisu.haile@yahoo.com" target="_blank"><img src="https://seeklogo.com/images/Y/yahoo-icon-logo-E6A71C70FC-seeklogo.com.png" alt="yahoo" width="40" height="40"/></a><a href="https://www.linkedin.com/in/addisu-tedla-8b4a10143/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="linkedin" width="40" height="40"/></a> </p>
+   <a href="https://github.com/Addisu87" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="30" height="30"/></a><a href="addisu.haile@yahoo.com" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2019/11/yahoo-logo.png" alt="yahoo" width="40" height="40"/></a><a href="https://www.linkedin.com/in/addisu-tedla-8b4a10143/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="linkedin" width="40" height="40"/></a> </p>
 
 
 <!--
