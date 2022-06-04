@@ -24,7 +24,7 @@
 ### 📫 Contact me 
 
 - GitHub: [Addisu87](https://github.com/Addisu87)
-- Email: (addisu.haile@yahoo.com)
+- Email: addisu.haile@yahoo.com
 - LinkeIn: [Addisu Tedla](https://www.linkedin.com/in/addisu-tedla-8b4a10143/)
 
 
