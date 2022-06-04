@@ -2,6 +2,7 @@
 ### Hi, I am Addisu 👋 
    - I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹
 
+### About Me
 
 ```javascript
     const  addisu = {
@@ -20,14 +21,32 @@
 ### ⚙️ Deployment platforms:
   <p><a href="https://www.netlify.com/" target="_blank"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="neflify" width="40" height="40"/></a><a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/></a><a href="https://pages.github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-pages" width="40" height="40"/></a></p>
 
-### Stats :
+ 
+ <p align="center">&nbsp;
+ 
+| Activities |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&theme=outrun" alt="Addisu Haile" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Addisu87&show_icons=true&theme=outrun&layout=compact" alt="Addisu Haile" width="410"/>|
+</p>
 
-[![Addisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    
 ### 📫 Contact me 
+<p align="left">
+   <a href="https://github.com/Addisu87" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="30" height="30"/></a><a href="addisu.haile@yahoo.com" target="_blank"><img src="https://seeklogo.com/images/Y/yahoo-icon-logo-E6A71C70FC-seeklogo.com.png" alt="yahoo" width="30" height="30"/></a><a href="https://www.linkedin.com/in/addisu-tedla-8b4a10143/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="linkedin" width="30" height="30"/></a> </p>
 
-- GitHub: [Addisu87](https://github.com/Addisu87)
-- Email: addisu.haile@yahoo.com
-- LinkeIn: [Addisu Tedla](https://www.linkedin.com/in/addisu-tedla-8b4a10143/)
 
+<!--
+**Addisu87/Addisu87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
