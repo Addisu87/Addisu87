@@ -20,13 +20,13 @@
    
 
 
-### ⚙️ Deployment platform:
+### ⚙️ Deployment platforms:
    
   <p><a href="https://www.netlify.com/" target="_blank"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="neflify" width="40" height="40"/></a><a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/></a><a href="https://pages.github.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" alt="github-pages" width="40" height="40"/></a></p>
 
  
  <p align="center">&nbsp;
- 
+    
 | Activities |   Languages |
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&theme=tokyonight" alt="Addisu Haile" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Addisu87&show_icons=true&theme=tokyonight&layout=compact" alt="Addisu Haile" width="410"/>|
