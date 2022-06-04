@@ -5,7 +5,7 @@ I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹
 
 About me
 
-const  Addisu = {
+const  addisu = {
   lookingFor: "Full-stack web developer" || "Software Engineer position",
   stack: [JavaScript, React, Python],
   status: ['Currently learning and looking for a new job opportunity],
