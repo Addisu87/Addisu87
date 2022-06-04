@@ -34,7 +34,7 @@ About me
    ![image](https://user-images.githubusercontent.com/85212711/171952689-44774731-38fd-4f76-8a5c-28a0b812cc60.png)
    
    
-   ![image](https://user-images.githubusercontent.com/85212711/171999056-7c608f66-db5e-463a-a753-34e405e2e191.png)
+
 
    
    
