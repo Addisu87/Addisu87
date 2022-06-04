@@ -1,9 +1,6 @@
 
-Hi, I am Addisu 👋 
-
-I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹
-
-About me
+### Hi, I am Addisu 👋 
+    <!-- I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹 -->
 
 
 ```javascript
@@ -16,7 +13,7 @@ About me
 ```
 
 
-💻 Languages and Tools: 
+### 💻 Languages and Tools: 
 
 
    ![image](https://user-images.githubusercontent.com/85212711/171951328-b1d764b7-94fa-4f6d-a871-aa4b39c98151.png)
@@ -28,7 +25,16 @@ About me
    ![image](https://user-images.githubusercontent.com/85212711/171951817-04fec3e1-8a7d-4ece-82d5-6dfcb275359a.png)
    ![image](https://user-images.githubusercontent.com/85212711/171951845-020bd915-72b3-4655-b590-c53b1c4ec561.png)
    
-⎈ Deployment platforms:
+### ⎈ Deployment platforms:
 
    ![image](https://user-images.githubusercontent.com/85212711/171952644-f038c447-0c71-4e55-9cfc-c741202370d8.png)
    ![image](https://user-images.githubusercontent.com/85212711/171952689-44774731-38fd-4f76-8a5c-28a0b812cc60.png)
+   
+### 📫 Contact me 
+
+- GitHub: [Addisu87](https://github.com/Addisu87)
+- Email: (addisu.haile@yahoo.com)
+- Twitter: [@AddisuTedla](https://twitter.com/AddisuTedla)
+- LinkeIn: [Addisu Tedla](https://www.linkedin.com/in/addisu-tedla-8b4a10143/)
+
+
