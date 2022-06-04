@@ -20,6 +20,9 @@
 ### ⚙️ Deployment platforms:
   <p><a href="https://www.netlify.com/" target="_blank"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="neflify" width="40" height="40"/></a><a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/></a><a href="https://pages.github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-pages" width="40" height="40"/></a></p>
 
+### Stats :
+
+[![Addisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    
 ### 📫 Contact me 
 
