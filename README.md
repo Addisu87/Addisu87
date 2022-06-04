@@ -32,7 +32,7 @@
    
 ### 📫 Contact me 
 <p align="left">
-   <a href="https://github.com/Addisu87" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="30" height="30"/></a><a href="addisu.haile@yahoo.com" target="_blank"><img src="https://seeklogo.com/images/Y/yahoo-icon-logo-E6A71C70FC-seeklogo.com.png" alt="yahoo" width="30" height="30"/></a><a href="https://www.linkedin.com/in/addisu-tedla-8b4a10143/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="linkedin" width="30" height="30"/></a> </p>
+   <a href="https://github.com/Addisu87" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="30" height="30"/></a><a href="addisu.haile@yahoo.com" target="_blank"><img src="https://seeklogo.com/images/Y/yahoo-icon-logo-E6A71C70FC-seeklogo.com.png" alt="yahoo" width="40" height="40"/></a><a href="https://www.linkedin.com/in/addisu-tedla-8b4a10143/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="linkedin" width="40" height="40"/></a> </p>
 
 
 <!--
