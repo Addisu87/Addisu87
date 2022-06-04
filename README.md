@@ -1,11 +1,17 @@
 
-
 Hi, I am Addisu 👋 
 
 I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹
 
-About me
+const  Addisu = {
+  lookingFor: "Software Engineer position" || "Full-stack web developer",
+  stack: [Ruby_on_rails, JavaScript, React],
+  status: ['Currently learning and looking for a new job opportunity],
+  languages: [Amharic, English]
+}
 
+
+About me
 
  · 💼 Freelancer
 
@@ -16,6 +22,15 @@ About me
  . ⚽️ My hobbies are playing soccer and listening musics. 
  
  . 📬 Contact me: 
+
+
+💻 Languages and Tools: 
+    ![image](https://user-images.githubusercontent.com/85212711/172000032-25a1c083-85d6-413f-a457-254d16ffa523.png)
+    ![image](https://user-images.githubusercontent.com/85212711/172000023-f3c4e578-5215-4ce3-a319-c409bad9e18e.png)
+    ![image](https://user-images.githubusercontent.com/85212711/172000039-7928e1b6-1ac9-4d90-a200-510dc4f90a24.png)
+
+
+
 
 💻 Languages
 
@@ -32,17 +47,3 @@ About me
 
    ![image](https://user-images.githubusercontent.com/85212711/171952644-f038c447-0c71-4e55-9cfc-c741202370d8.png)
    ![image](https://user-images.githubusercontent.com/85212711/171952689-44774731-38fd-4f76-8a5c-28a0b812cc60.png)
-   
-   
-
-
-   
-   
-
-
-
-
-
-
-
-   
