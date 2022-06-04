@@ -1,6 +1,6 @@
 
 ### Hi, I am Addisu 👋 
-    <!-- I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹 -->
+   - I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹
 
 
 ```javascript
