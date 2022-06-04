@@ -5,24 +5,19 @@ I'm a self-taught passionate Fullstack developer from Ethiopia 🇪🇹
 
 About me
 
-const  addisu = {
-  lookingFor: "Full-stack web developer" || "Software Engineer position",
-  stack: [JavaScript, React, Python],
-  status: ['Currently learning and looking for a new job opportunity],
-  languages: [Amharic, English]
-}
 
+```javascript
+    const  addisu = {
+      lookingFor: "Full-stack web developer" || "Software Engineer position",
+      stack: [JavaScript, React, Python],
+      status: ['Currently learning and looking for a new job opportunity],
+      languages: [Amharic, English]
+    }
+```
 
 
 💻 Languages and Tools: 
-    ![image](https://user-images.githubusercontent.com/85212711/172000032-25a1c083-85d6-413f-a457-254d16ffa523.png)
-    ![image](https://user-images.githubusercontent.com/85212711/172000023-f3c4e578-5215-4ce3-a319-c409bad9e18e.png)
-    ![image](https://user-images.githubusercontent.com/85212711/172000039-7928e1b6-1ac9-4d90-a200-510dc4f90a24.png)
 
-
-
-
-💻 Languages
 
    ![image](https://user-images.githubusercontent.com/85212711/171951328-b1d764b7-94fa-4f6d-a871-aa4b39c98151.png)
    ![image](https://user-images.githubusercontent.com/85212711/171951566-e5a917c3-070f-4a2f-88e5-f5b3c077e3d1.png)
