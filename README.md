@@ -33,7 +33,7 @@
 
    
 ### 📫  Contact me 
-<p align="left"><a href="https://github.com/Addisu87" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" alt="github" width="40" height="40"/> </a> <a href="addisu.haile@yahoo.com" target="_blank"><img src="https://icons-for-free.com/download-icon-home+internet+page+search+website+yahoo+icon-1320192781341661707_0.svg" alt="yahoo" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/addisu-tedla-8b4a10143/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="linkedin" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://github.com/Addisu87" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" alt="github" width="40" height="40"/> </a> <a href="addisu.haile@yahoo.com" target="_blank"><img src="https://icons-for-free.com/download-icon-home+internet+page+search+website+yahoo+icon-1320192781341661707_0.svg" alt="yahoo" width="40" height="40"/> </a> <a href=www.linkedin.com/in/addisu-tedla" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="linkedin" width="40" height="40"/> </a> </p>
 
 
 <!--
