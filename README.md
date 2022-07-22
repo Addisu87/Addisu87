@@ -7,6 +7,7 @@
     const  addisu = {
       lookingFor: "Full-stack web developer" || "Software Engineer position",
       code: [JavaScript, React, Python, Ruby on Rails],
+      askMeAbout: ["Web dev", "Physics", "Soccer", "Sci-fi"],
       status: ['Currently learning and looking for a new job opportunity],
       languages: [Amharic, English]
     }
