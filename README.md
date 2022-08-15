@@ -28,7 +28,7 @@
    <a href="https://tailwindcss.com/" target="_blank"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwind-css" width="40" height="40"/> </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-     <img src="https://p.kindpng.com/picc/s/43-433008_postgres-logo-svg-hd-png-download.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
    </p>
 
 ### ⚙️ Deployment platforms:
