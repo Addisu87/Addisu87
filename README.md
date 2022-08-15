@@ -35,7 +35,8 @@
 ### ⚙️ Deployment platforms:
    
   <p><a href="https://www.netlify.com/" target="_blank"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="neflify" width="40" height="40"/></a><a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/></a>
-    <a href="https://github.com/Addisu87" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" alt="github" width="40" height="40"/></a></p>
+    <a href="https://github.com/Addisu87" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" alt="github" width="40" height="40"/></a></p>
+    
 
  
  <p align="center">&nbsp;
@@ -47,7 +48,7 @@
 
    
 ### 📫  Contact me 
-<p align="left"><a href="https://github.com/Addisu87" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" alt="github" width="40" height="40"/> </a> <a href="addisu.haile@yahoo.com" target="_blank"><img src="https://icons-for-free.com/download-icon-home+internet+page+search+website+yahoo+icon-1320192781341661707_0.svg" alt="yahoo" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/addisu-tedla/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="linkedin" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://github.com/Addisu87" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" alt="github" width="40" height="40"/> </a> <a href="addisu.haile@yahoo.com" target="_blank"><img src="https://icons-for-free.com/download-icon-home+internet+page+search+website+yahoo+icon-1320192781341661707_0.svg" alt="yahoo" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/addisu-tedla/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="linkedin" width="40" height="40"/> </a> </p>
 
 
 <!--
