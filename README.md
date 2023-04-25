@@ -13,16 +13,16 @@
     }
 ```
 
-### 💻  Languages and Tools: 
+### 💻  Languages and Tools 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://github.com/Addisu87">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,webpack,react,rails,python,postgres,git,vercel,netlify" />
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+### 📫 Connect with me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/addisu-tedla/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="4%" height="4%"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
