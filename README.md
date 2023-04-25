@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://github.com/Addisu87">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,webpack,react,rails,postgres,git,bash,ai" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,webpack,react,rails,python,postgres,git,vercel,netlify" />
   </a>
 </p>
 
