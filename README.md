@@ -5,7 +5,7 @@
 
 ```javascript
     const  addisu = {
-      lookingFor: "Full-stack web developer" || "Software Engineer position",
+      lookingFor: "Full-stack developer" || "Software Engineer position",
       stack: [JavaScript, React, Python, Ruby, Ruby on Rails],
       askMeAbout: ["Web dev", "Physics", "Soccer", "Sci-fi"],
       status: ['Currently looking for a new job opportunity],
