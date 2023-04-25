@@ -30,7 +30,7 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addisu87&layout=compact&theme=gotham" width="39%"/> <img src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addisu87&layout=compact&theme=gotham" width="38%"/> <img src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
 
 [![Addisu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Addisu87&theme=gotham&area=true&hide_border=true)](https://github.com/Addisu87/github-readme-activity-graph)
