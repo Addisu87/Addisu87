@@ -29,6 +29,13 @@
 <a href="mailto:addisu.haile@yahoo.com"><img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="4%" height="4%"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+ <p align="center">&nbsp;
+    
+| Activities |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&theme=tokyonight" alt="Addisu Haile" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Addisu87&show_icons=true&theme=tokyonight&layout=compact" alt="Addisu Haile" width="410"/>|
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addisu87&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
