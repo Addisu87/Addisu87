@@ -33,6 +33,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addisu87&layout=compact&theme=gotham" width="38%"/> <img src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
 
-[![Addisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Addisu87&theme=gotham&area=true&hide_border=true)](https://github.com/Addisu87/github-readme-activity-graph)
+[![Addisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Addisu87&theme=react-dark&area=true&hide_border=true)](https://github.com/Addisu87/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Addisu87&theme=gotham)](https://git.io/streak-stats)
