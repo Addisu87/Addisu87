@@ -32,9 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addisu87&layout=compact&theme=gotham" width="38%"/> <img src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&count_private=true&theme=gotham" width="49.5%"/>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-
+![snake gif](https://github.com/Addisu87/Addisu87/blob/output/github-contribution-grid-snake.gif)
 
 
 [![Addisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Addisu87&theme=gotham&area=true&hide_border=true)](https://github.com/Addisu87/github-readme-activity-graph)
