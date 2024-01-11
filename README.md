@@ -35,5 +35,5 @@
 
 [![Addisu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Addisu87&theme=gotham&area=true&hide_border=true)](https://github.com/Addisu87/github-readme-activity-graph)
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.com?user=Addisu87&theme=gotham&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Addisu87&theme=gotham)](https://git.io/streak-stats)
 
