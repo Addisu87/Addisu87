@@ -10,6 +10,41 @@ const addisu = {
   status: ['Currently looking for a new job opportunity'],
   languages: [English, Amharic]
 }
+const addisu = {
+  pronouns: "he" || "him",
+  seeking: "Full-Stack Developer Role 🚀",
+  techStack: {
+    frontend: ["JavaScript (ES6+)", "TypeScript", "React", "Next.js", "Redux", "Tailwind CSS"],
+    backend: ["Python", "Django", "FastAPI", "GraphQL", "Node.js", "Ruby on Rails", "PydanticAI"],
+    databases: ["PostgreSQL", "Subabase", "MongoDB", "Redis"],
+    devOps: ["Docker", "AWS", "Vercel", "GitHub Actions"],
+    testing: ["Jest", "RSpec", "Pytest"],
+    tools: ["Git", "Webpack", "Postman", "ElevenLabs (Voice AI)", "Twilio (AI Communications)"]
+  },
+  currentProjects: [
+    "🎙️ Voice-enabled AI agents using ElevenLabs + Twilio Programmable Voice",
+    "🔗 Developing type-safe AI workflows with PydanticAI validation",
+    "🤖 Creating autonomous agent systems with OpenAI's Assistant API"
+  ],
+  askMeAbout: [
+    "Web architecture design patterns", 
+    "REST/GraphQL API development",
+    "Performance optimization techniques",
+    "Designing production-ready LLM applications",
+    "AI API integration patterns",
+    "Multimodal AI systems (text → voice → SMS)",
+    "Ethical AI implementation",
+  ],
+  funFact: "Former physicist now crafting digital universes ⚛️👨💻",
+  currentFocus: "Building scalable SaaS applications with React & Rails",
+  availability: "Open to new opportunities & ambitious AI projects 🔥",
+  contact: {
+    email: "addisu.haile@yahoo.com",
+    linkedIn: "linkedin.com/in/addisu-tedla",
+    portfolio: "https://portfolio-addisu-addisu87.vercel.app"
+    github: "github.com/Addisu87"
+  }
+};
 ```
 
 ### 💻  Languages and Tools 
