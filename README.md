@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Addisu87">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,ruby,rails,python,django,postgres,git,vercel,netlify,jest,nodejs,docker,aws,postman,nextjs,graphql," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,ruby,rails,python,django,postgres,git,vercel,netlify,jest,nodejs,docker,aws,postman,nextjs,graphql,fastapi,pydanticai" />
   </a>
 </p>
 
