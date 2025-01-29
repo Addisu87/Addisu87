@@ -17,8 +17,7 @@ const addisu = {
 
 <p align="center">
   <a href="https://github.com/Addisu87">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,nodejs,ruby,rails,python,django,fastapi,postgres,docker,aws,git,vercel,jest,postman,pytest" />
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,nodejs,ruby,rails,python,django,fastapi,supabase,postgres,docker,aws,git,vercel,jest,postman,pytest" />
   </a>
 </p>
 ### 📫 Connect with me
