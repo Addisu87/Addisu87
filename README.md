@@ -15,7 +15,14 @@ const addisu = {
 
 ### 💻  Languages and Tools 
 
-<p align="center"> <a href="https://github.com/Addisu87"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,ruby,rails,python,django,fastapi,postgres,git,vercel,render,jest,nodejs,docker,aws,postman" />  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PydanticAI-000000?style=for-the-badge&logo=pydantic&logoColor=white" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/Addisu87">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,nodejs,ruby,rails,python,django,fastapi,postgres,docker,aws,git,vercel,render,jest,postman" />
+    <!-- Custom DRF & PydanticAI badges -->
+    <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/PydanticAI-000000?style=flat&logo=pydantic&logoColor=white" />
+  </a>
+</p>
 
 ### 📫 Connect with me
 
