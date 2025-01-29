@@ -17,10 +17,10 @@ const addisu = {
 
 <p align="center">
   <a href="https://github.com/Addisu87">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,nodejs,ruby,rails,python,django,fastapi,postgres,docker,aws,git,vercel,jest,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,nodejs,ruby,rails,python,django,fastapi,postgres,docker,aws,git,vercel,jest,postman,pytest" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   </a>
 </p>
-
 ### 📫 Connect with me
 
 <p align="left"> <a href="https://www.linkedin.com/in/addisu-tedla/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> </a> &#8287;&#8287;&#8287; <a href="mailto:addisu.haile@yahoo.com"> <img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="40" height="40"/> </a> </p><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addisu87&layout=compact&theme=gotham" width="38%"/> <img src="https://github-readme-stats.vercel.app/api?username=Addisu87&show_icons=true&count_private=true&theme=gotham" width="49.5%"/> </div>
