@@ -17,7 +17,7 @@ const addisu = {
 
 <p align="center">
   <a href="https://github.com/Addisu87">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,nodejs,ruby,rails,python,django,fastapi,postgres,docker,aws,git,vercel,render,jest,pytest,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,webpack,react,redux,nextjs,graphql,nodejs,ruby,rails,python,django,fastapi,postgres,docker,aws,git,vercel,jest,postman" />
   </a>
 </p>
 
