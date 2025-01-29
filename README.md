@@ -28,5 +28,6 @@ const addisu = {
 
 [![Addisu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Addisu87&theme=gotham&area=true&hide_border=true)](https://github.com/Addisu87/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Addisu87&theme=gotham)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Addisu87&theme=gotham)](https://git.io/streak-stats)
 
