@@ -4,13 +4,6 @@
 
 ```javascript
 const addisu = {
-  lookingFor: "Full-stack developer" || "Software Engineer position",
-  stack: [JavaScript, React, Python, Ruby, Ruby on Rails, Node],
-  askMeAbout: ["Web dev", "Physics", "Soccer", "Sci-fi"],
-  status: ['Currently looking for a new job opportunity'],
-  languages: [English, Amharic]
-}
-const addisu = {
   pronouns: "he" || "him",
   seeking: "Full-Stack Developer Role 🚀",
   techStack: {
@@ -41,7 +34,7 @@ const addisu = {
   contact: {
     email: "addisu.haile@yahoo.com",
     linkedIn: "linkedin.com/in/addisu-tedla",
-    portfolio: "https://portfolio-addisu-addisu87.vercel.app"
+    portfolio: "https://portfolio-addisu-addisu87.vercel.app",
     github: "github.com/Addisu87"
   }
 };
