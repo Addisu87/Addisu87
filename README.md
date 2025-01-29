@@ -17,11 +17,10 @@ const addisu = {
     "🔗 Developing type-safe AI workflows with PydanticAI validation",
   ],
   askMeAbout: [
-    "Web architecture design patterns", 
-    "REST/GraphQL API development",
-    "Designing production-ready LLM applications",
     "AI-Web integration architecture",
+    "REST/GraphQL API development",
     "Multimodal AI systems (text → voice → SMS)",
+    "Designing production-ready LLM applications",
   ],
   background: "Ex-physicist building digital ecosystems ⚛️ → 👨💻",
   status: "Open to impactful AI/Web projects 🔥",
