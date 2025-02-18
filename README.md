@@ -8,8 +8,8 @@ const addisu = {
   stack: {
     web: ["JavaScript (ES6+)", "TypeScript", "React", "Next.js", "Python", "FastAPI", "Ruby", "GraphQL"],
     ai: [ "PydanticAI", "OpenAI", "DeepSeek", "LangChain", "ElevenLabs", "Twilio"],
-    infra: ["AWS", "Docker", "PostgreSQL", "Subabase", "Redis", "Vercel"],
-    tools: ["Git", "Jest", "Webpack", "GitHub Actions"]
+    infra: ["AWS", "Docker", "PostgreSQL", "Supabase", "Redis", "Vercel"],
+    tools: ["Git", "Jest", "pytest", "Webpack", "GitHub Actions"]
   },
   currentProjects: [
     "🚀 Full-stack SaaS platforms"
@@ -25,7 +25,7 @@ const addisu = {
   background: "Ex-physicist building digital ecosystems ⚛️ → 👨💻",
   status: "Open to impactful AI/Web projects 🔥",
   contact: {
-    email: "addisu.haile@yahoo.com",
+    email: "addisu.haile@yahoo.com/addisuhaile87@gmail.com",
     linkedIn: "linkedin.com/in/addisu-tedla",
     portfolio: "https://portfolio-addisu-addisu87.vercel.app",
     github: "github.com/Addisu87"
