@@ -9,7 +9,7 @@ const addisu = {
     web: ["JavaScript (ES6+)", "TypeScript", "React", "Next.js", "Python", "FastAPI", "Ruby", "GraphQL"],
     ai: [ "PydanticAI", "OpenAI", "DeepSeek", "LangChain", "ElevenLabs", "Twilio"],
     infra: ["AWS", "Docker", "PostgreSQL", "Supabase", "Redis", "Vercel"],
-    tools: ["Git", "Jest", "pytest", "Webpack", "GitHub Actions"]
+    tools: ["Git", "Jest", "pytest", "Webpack", "GitHub Actions", "PayloadCMS", "MedusaJS"]
   },
   currentProjects: [
     "🚀 Full-stack SaaS platforms"
