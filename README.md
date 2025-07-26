@@ -27,7 +27,7 @@ const addisu = {
   contact: {
     email: "addisu.haile@yahoo.com/addisuhaile87@gmail.com",
     linkedIn: "linkedin.com/in/addisu-tedla",
-    portfolio: "https://portfolio-addisu-addisu87.vercel.app",
+    portfolio: "https://portfolio-addisu.vercel.app/",
     github: "github.com/Addisu87"
   }
 };
