@@ -25,7 +25,7 @@ const addisu = {
   background: "Ex-physicist building digital ecosystems ⚛️ → 👨💻",
   status: "Open to impactful AI/Web projects 🔥",
   contact: {
-    email: "addisu.haile@yahoo.com/addisuhaile87@gmail.com",
+    email: "addisuhaile87@gmail.com/addisu.haile@yahoo.com",
     linkedIn: "linkedin.com/in/addisu-tedla",
     portfolio: "https://portfolio-addisu.vercel.app/",
     github: "github.com/Addisu87"
